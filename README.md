@@ -1,5 +1,9 @@
 # ⚡ Energy Consumption Forecasting using Machine Learning
 
+## 🧠 Problem Statement
+Unpredictable energy demands can lead to overloading, wastage, or inefficiencies in energy distribution. This project focuses on building a predictive model that can estimate future energy consumption based on time-series data and relevant influencing factors.
+
+
 ## 🔍 Overview
 This project aims to forecast future energy consumption using historical data and machine learning models. Accurate energy prediction helps in effective resource management, load balancing, and policy planning for sustainable energy systems.
 
